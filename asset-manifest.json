@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/milatest/static/css/main.f855e6bc.css",
+    "main.js": "/milatest/static/js/main.48f5a3aa.js",
+    "static/js/453.d2f282f6.chunk.js": "/milatest/static/js/453.d2f282f6.chunk.js",
+    "static/media/logo.svg": "/milatest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/milatest/index.html",
+    "main.f855e6bc.css.map": "/milatest/static/css/main.f855e6bc.css.map",
+    "main.48f5a3aa.js.map": "/milatest/static/js/main.48f5a3aa.js.map",
+    "453.d2f282f6.chunk.js.map": "/milatest/static/js/453.d2f282f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.48f5a3aa.js"
+  ]
+}
